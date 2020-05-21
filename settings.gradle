@@ -1,0 +1,3 @@
+rootProject.name='StarterSDK'
+include ':app'
+include ':starter'
